@@ -2,10 +2,10 @@
 
 Static browser build only. Development source is kept in a separate private repository.
 
-Version: **v0.6.2**
+Version: **v0.7.0**
 
 Website: https://r3dra1n.github.io/mingli-academy/
 
 Courses use hash URLs (for example `#/lesson/104`) so refresh works on GitHub Pages. Learning records are saved locally for this domain; they are not automatically shared with the Sites domain.
 
-Published from source commit: 611d7072fa4fde2b4250043bc6df0f11bddcabda.
+Published from source commit: db4dca483f9261089cf2d0da7b6df119b06fcdea.
